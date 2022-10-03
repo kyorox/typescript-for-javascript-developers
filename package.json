@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kyorox/typescript-for-javscript-developers/issues"
   },
-  "homepage": "https://github.com/kyorox/typescript-for-javscript-developers#readme"
+  "homepage": "https://github.com/kyorox/typescript-for-javscript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
